@@ -32,7 +32,7 @@ I am a Ph.D. student at Guanghua School of Management, Peking University. Prior 
 
 ## 🔥 News
 
-- *Apr 2026*: &nbsp;🎉 Our paper **RiskPO** was accepted to **ICLR 2026**!
+- *Jan 2026*: &nbsp;🎉 Our paper **RiskPO** was accepted to **ICLR 2026**!
 
 ---
 <!-- ## 📝 Publications -->
