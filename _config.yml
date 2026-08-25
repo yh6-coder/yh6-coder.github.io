@@ -22,7 +22,7 @@ baidu_site_verification  :  # 可选，暂时留空
 # Site Author
 author:
   name             : "Hui Yang"
-  avatar           : "images/android-chrome-512x512.png"   # 建议换成你自己的头像（放在 images/ 目录下）
+  avatar           : "images/wx_fig.png"   # 建议换成你自己的头像（放在 images/ 目录下）
   bio              : "PhD Student at Guanghua School of Management, Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
