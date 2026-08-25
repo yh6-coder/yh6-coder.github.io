@@ -39,7 +39,7 @@ I am a Ph.D. student at Guanghua School of Management, Peking University. Prior 
 ## 📝 Publications
 
 - [**RiskPO: Risk-based Policy Optimization with Verifiable Reward for LLM Post‑Training**](https://openreview.net/forum?id=KjHB7rebQO)  
-  Tao Ren, Jinyang Jiang, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng  
+  Tao Ren, Jinyang Jiang, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng.  
   **ICLR** 2026.
 
 ## 📄 Preprints
