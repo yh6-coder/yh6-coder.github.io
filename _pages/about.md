@@ -28,20 +28,12 @@ I am a Ph.D. student at Guanghua School of Management, Peking University. Prior 
 - *Apr 2026*: &nbsp;🎉 Our paper **RiskPO** was accepted to **ICLR 2026**!
 
 ---
-
 ## 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**RiskPO: Risk-based Policy Optimization with Verifiable Reward for LLM Post‑Training**  
-Tao Ren*, Jinyang Jiang*, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng  
-*International Conference on Learning Representations (ICLR)*, 2026.
-
-[Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8TcIWawAAAAJ&citation_for_view=8TcIWawAAAAJ:xxxx) <strong><span class='show_paper_citations' data='8TcIWawAAAAJ:xxxx'></span></strong>
-
-</div>
-</div>
+- **RiskPO: Risk-based Policy Optimization with Verifiable Reward for LLM Post‑Training**  
+  Tao Ren*, Jinyang Jiang*, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng  
+  *International Conference on Learning Representations (ICLR)*, 2026.  
+  [Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8TcIWawAAAAJ&citation_for_view=8TcIWawAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='8TcIWawAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - **Omni‑Masked Gradient Descent: Memory‑Efficient Optimization via Mask Traversal with Improved Convergence**  
   **Hui Yang***, Tao Ren*, Jinyang Jiang, Wan Tian, Yijie Peng.  
@@ -54,7 +46,7 @@ Tao Ren*, Jinyang Jiang*, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zish
 - **Adaptive Robust Estimator for Multi-Agent Reinforcement Learning**  
   Zhongyi Li, Wan Tian, Jingyu Chen, Kangyao Huang, Huiming Zhang, **Hui Yang**, Tao Ren, Jinyang Jiang, Yijie Peng, Yikun Ban, Fuzhen Zhuang.  
   *Under review.*
-
+  
 ---
 
 ## 📖 Educations
@@ -69,3 +61,15 @@ Tao Ren*, Jinyang Jiang*, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zish
 Email: **yanghui6@stu.pku.edu.cn**  
 Google Scholar: [https://scholar.google.com/citations?user=8TcIWawAAAAJ](https://scholar.google.com/citations?user=8TcIWawAAAAJ)  
 GitHub: [yh6-coder](https://github.com/yh6-coder)
+
+
+
+
+
+
+
+
+
+
+
+
