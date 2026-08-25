@@ -23,6 +23,13 @@ I am a Ph.D. student at Guanghua School of Management, Peking University. Prior 
 
 ---
 
+## 📖 Educations
+
+- **Ph.D.**, Guanghua School of Management, Peking University, 2025 – Present
+- **B.S.**, School of Mathematical Sciences, Peking University, 2021 – 2025
+
+---
+
 ## 🔥 News
 
 - *Apr 2026*: &nbsp;🎉 Our paper **RiskPO** was accepted to **ICLR 2026**!
@@ -33,7 +40,7 @@ I am a Ph.D. student at Guanghua School of Management, Peking University. Prior 
 
 - [**RiskPO: Risk-based Policy Optimization with Verifiable Reward for LLM Post‑Training**](https://openreview.net/forum?id=KjHB7rebQO)  
   Tao Ren, Jinyang Jiang, **Hui Yang***, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng  
-  *International Conference on Learning Representations (ICLR)*, 2026.
+  **ICLR** 2026.
 
 ## 📄 Preprints
 
@@ -48,13 +55,6 @@ I am a Ph.D. student at Guanghua School of Management, Peking University. Prior 
   
 - [**Adaptive Robust Estimator for Multi-Agent Reinforcement Learning**](https://arxiv.org/abs/2603.21574)  
   Zhongyi Li, Wan Tian, Jingyu Chen, Kangyao Huang, Huiming Zhang, **Hui Yang**, Tao Ren, Jinyang Jiang, Yijie Peng, Yikun Ban, Fuzhen Zhuang.
-
----
-
-## 📖 Educations
-
-- **Ph.D.**, Guanghua School of Management, Peking University, 2025 – Present
-- **B.S.**, School of Mathematical Sciences, Peking University, 2021 – 2025
 
 ---
 
